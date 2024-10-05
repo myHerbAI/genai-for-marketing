@@ -1,0 +1,16 @@
+name: genai-for-marketing
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/a238fbfc-8da8-4661-831d-41b72a26de0c
+description: Showcasing Google Cloud's generative AI for marketing scenarios via application frontend, backend, and detailed, step-by-step guidance for setting up and utilizing generative AI tools, including examples of their use in crafting marketing materials like blog posts and social media content, nl2sql analysis, and campaign personalization.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/genai-for-marketing
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
